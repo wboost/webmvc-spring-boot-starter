@@ -6,7 +6,7 @@
     <parent>
         <groupId>top.wboost</groupId>
         <artifactId>spring-boot-starter-support</artifactId>
-        <version>3.2.2-SNAPSHOT</version>
+        <version>4.0.0.RELEASE</version>
     </parent>
     <artifactId>webmvc-spring-boot-starter</artifactId>
     <name>webmvc-spring-boot-starter</name>
